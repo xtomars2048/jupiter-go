@@ -2,7 +2,7 @@ module main.go
 
 go 1.24.1
 
-require github.com/ilkamo/jupiter-go v0.0.8
+require github.com/katelouis/jupiter-go v1.1.0  // indirect
 
 require (
 	filippo.io/edwards25519 v1.0.0-rc.1 // indirect

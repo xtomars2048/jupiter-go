@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/ilkamo/jupiter-go/jupiter"
-	"github.com/ilkamo/jupiter-go/solana"
+	"github.com/katelouis/jupiter-go/jupiter"
+	"github.com/katelouis/jupiter-go/solana"
 )
 
 func main() {
