@@ -2,8 +2,8 @@
 
 ### Go library to interact with [Jupiter](https://jup.ag) to get quotes, perform swaps and send them on-chain
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GoDoc](https://pkg.go.dev/badge/github.com/katelouis/jupiter-go?status.svg)](https://pkg.go.dev/github.com/katelouis/jupiter-go?tab=doc)
-[![Go Report Card](https://goreportcard.com/badge/github.com/katelouis/jupiter-go)](https://goreportcard.com/report/katelouis/jupiter-go)
+[![GoDoc](https://pkg.go.dev/badge/github.com/xtomars2048/jupiter-go?status.svg)](https://pkg.go.dev/github.com/xtomars2048/jupiter-go?tab=doc)
+[![Go Report Card](https://goreportcard.com/badge/github.com/xtomars2048/jupiter-go)](https://goreportcard.com/report/katelouis/jupiter-go)
 
 This library provides a simple way to interact with the [Jupiter](https://jup.ag) API to get quotes and perform swaps. 
 
@@ -16,7 +16,7 @@ It also provides:
 ## Installation
 
 ```bash
-go get github.com/katelouis/jupiter-go
+go get github.com/xtomars2048/jupiter-go
 ```
 
 ## Usage
@@ -29,7 +29,7 @@ package main
 import (
 	"context"
 
-	"github.com/katelouis/jupiter-go/jupiter"
+	"github.com/xtomars2048/jupiter-go/jupiter"
 )
 
 func main() {
@@ -101,8 +101,8 @@ package main
 import (
 	"time"
 
-	"github.com/katelouis/jupiter-go/jupiter"
-	"github.com/katelouis/jupiter-go/solana"
+	"github.com/xtomars2048/jupiter-go/jupiter"
+	"github.com/xtomars2048/jupiter-go/solana"
 )
 
 func main() {

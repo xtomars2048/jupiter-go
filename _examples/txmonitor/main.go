@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/katelouis/jupiter-go/solana"
+	"github.com/xtomars2048/jupiter-go/solana"
 )
 
 func main() {

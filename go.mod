@@ -1,4 +1,4 @@
-module github.com/katelouis/jupiter-go
+module github.com/xtomars2048/jupiter-go
 
 go 1.24.1
 

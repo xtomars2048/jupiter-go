@@ -9,7 +9,7 @@ import (
 	"github.com/gagliardetto/solana-go/rpc"
 	"github.com/stretchr/testify/require"
 
-	jupSolana "github.com/katelouis/jupiter-go/solana"
+	jupSolana "github.com/xtomars2048/jupiter-go/solana"
 )
 
 type rpcMock struct {
