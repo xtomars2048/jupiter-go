@@ -72,7 +72,7 @@ type RoutePlanStep struct {
 // SwapInfo defines model for SwapInfo.
 type SwapInfo struct {
 	AmmKey     string  `json:"ammKey"`
-	FeeAmount  string  `json:"feeAmount"`
+	FeeAmount  int64  `json:"feeAmount"`
 	FeeMint    string  `json:"feeMint"`
 	InAmount   string  `json:"inAmount"`
 	InputMint  string  `json:"inputMint"`
